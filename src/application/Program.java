@@ -12,7 +12,7 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		
 		Product product = new Product();
-		
+			
 		System.out.println("Enter product data:");
 		System.out.print("Name: ");
 		product.name = sc.nextLine();
